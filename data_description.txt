@@ -463,7 +463,7 @@ OpenPorchSF: Open porch area in square feet
 
 EnclosedPorch: Enclosed porch area in square feet
 
-3SsnPorch: Three season porch area in square feet
+SsnPorch: Three season porch area in square feet
 
 ScreenPorch: Screen porch area in square feet
 
