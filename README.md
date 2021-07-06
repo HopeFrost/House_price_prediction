@@ -9,9 +9,10 @@ The Kaggle competition dataset contains 80 qualitative and quantitative features
 To view a full report please view house_price_report.pdf
 
 The project progresses through the Data Science Method steps as follows:
-Problem Identification
-    When a house goes on the market, how much will it really sell for?
-    Homeowners want to know what they’re home is worth. Realtors want to price homes aggressively to sell. Home buyers want to know they’re not overpaying. Everyone involved is interested in market prices and what they’re neighborhood houses are selling for.
+
+#### Problem Identification
+When a house goes on the market, how much will it really sell for?
+Homeowners want to know what they’re home is worth. Realtors want to price homes aggressively to sell. Home buyers want to know they’re not overpaying. Everyone involved is interested in market prices and what they’re neighborhood houses are selling for.
 
 #### Data Wrangling
 1_housing_datawrangling.ipynb
